@@ -757,7 +757,7 @@ Extensions Supported
 
 
 
-TODO
+TODO (no promises)
 ----
 
 Several things not yet implemented in no particular order:
