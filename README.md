@@ -1,5 +1,5 @@
 
-![node-imap CI](https://github.com/mikebevz/node-imap/workflows/node-imap%20CI/badge.svg?branch=master&event=push)
+[![node-imap CI](https://github.com/nickdevnl/imap-node/actions/workflows/nodejs.yml/badge.svg?branch=main)](https://github.com/nickdevnl/imap-node/actions/workflows/nodejs.yml)
 
 
 Note
