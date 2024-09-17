@@ -1,6 +1,6 @@
 {
   "name": "imap-node",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "author": "Nick Brouwer <nick@blackforthosting.com>",
   "description": "A fork of the famous and outdated IMAP module for node.js that makes communicating with IMAP servers easy",
   "main": "./lib/Connection",
